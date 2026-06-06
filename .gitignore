@@ -1,0 +1,21 @@
+# Variáveis de ambiente — NUNCA commitar
+.env
+.env.*
+!.env.example
+
+# Ambiente virtual Python
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
