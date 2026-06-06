@@ -95,13 +95,23 @@ Rodei as perguntas abaixo direto no chat e marquei o resultado. Use ✅ pra corr
 
 ## O que funcionou bem
 
-*(preencher depois dos testes)*
+- Respostas claras e acessíveis para usuários sem conhecimento técnico ou jurídico.
+- Boa aderência ao escopo definido nos guardrails.
+- Redução de respostas especulativas quando a informação não estava disponível ou ainda não havia sido definida em lei.
+- Estrutura modular da base de conhecimento facilitando manutenção e atualização do conteúdo.
+- Baixo custo operacional utilizando GPT-4o-mini.
+- Boa experiência do usuário com respostas em streaming através do Gradio.
 
 ---
 
 ## O que ainda pode melhorar
+- Implementação de um mecanismo de RAG com embeddings e busca semântica para permitir bases de conhecimento maiores.
+- Inclusão de referências e citações automáticas das fontes utilizadas na resposta.
+- Integração com fontes oficiais atualizadas para reduzir a necessidade de manutenção manual da base de conhecimento.
+- Criação de métricas quantitativas de avaliação, como precisão, aderência aos guardrails e satisfação do usuário.
+- Implementação de memória de conversação de longo prazo para melhorar o contexto entre interações.
+- Desenvolvimento de autenticação e personalização por perfil de usuário em uma futura versão SaaS.
 
-*(preencher depois dos testes)*
 
 ---
 
